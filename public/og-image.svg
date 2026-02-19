@@ -1,0 +1,23 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="url(#paint0_linear)"/>
+  <circle cx="1000" cy="150" r="300" fill="white" fill-opacity="0.05"/>
+  <circle cx="150" cy="500" r="200" fill="white" fill-opacity="0.03"/>
+  
+  <!-- Logo / Brand -->
+  <g transform="translate(420, 200)">
+    <rect width="120" height="120" rx="30" fill="white"/>
+    <path d="M60 30L26 60H34V90H52V71H68V90H86V60H94L60 30Z" fill="#2563EB"/>
+    <path d="M60 62C60 62 58.1 54.4 50.6 54.4C43.1 54.4 43.1 64.1 50.6 67.8C56.3 70.4 60 75.2 60 75.2C60 75.2 63.7 70.4 69.4 67.8C76.9 64.1 76.9 54.4 69.4 54.4C61.9 54.4 60 62 60 62Z" fill="#0D9488"/>
+  </g>
+  
+  <text x="600" y="420" text-anchor="middle" fill="white" style="font-family:sans-serif; font-weight:900; font-size:72px; letter-spacing:-2px;">Care Class Manager</text>
+  <text x="600" y="480" text-anchor="middle" fill="white" fill-opacity="0.7" style="font-family:sans-serif; font-weight:600; font-size:24px; letter-spacing:4px; text-transform:uppercase;">Smart Student Management System</text>
+  
+  <defs>
+    <linearGradient id="paint0_linear" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1E3A8A"/>
+      <stop offset="0.5" stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#0D9488"/>
+    </linearGradient>
+  </defs>
+</svg>
